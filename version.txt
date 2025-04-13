@@ -2,7 +2,7 @@ latest_version=1.5
 download_url=https://github.com/juliannizah26/SteamPlus-Release/releases/download/SteamPlus/update.zip
 # SteamPlus+ Changelog
 
-## Version 1.4 - (April 30, 2025)
+## Version 1.5 - (April 30, 2025)
 - Fixed minor bug
 
 ## Version 1.4 - (April 10, 2025)
