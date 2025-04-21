@@ -1,8 +1,16 @@
-latest_version=1.5
-download_url=https://github.com/juliannizah26/SteamPlus-Release/releases/download/v1.5/update.zip
+
+latest_version=1.6
+download_url=https://github.com/juliannizah26/SteamPlus-Release/releases/download/v1.6/update.zip
 # SteamPlus+ Changelog
 
-## Version 1.5 - (April 30, 2025)
+## Version 1.6 - (April 21, 2025)
+- Merged shared accounts dictionary for OnlineFix and Original modes into a single shared accounts configuration
+- Removed OnlineFix mode toggle switch from main menu UI; mode selection is now only available in settings GUI
+- Fixed crash caused by missing mode toggle switch references in save settings
+- Added automatic application restart on mode change to apply new mode without manual restart
+- Improved mode switching experience with immediate effect after saving settings
+
+## Version 1.5 - (April 11, 2025)
 - Fixed minor bug
 
 ## Version 1.4 - (April 10, 2025)
