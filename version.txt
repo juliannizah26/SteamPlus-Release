@@ -1,4 +1,4 @@
-latest_version=1.7
+latest_version=1.6
 download_url=https://github.com/juliannizah26/SteamPlus-Release/releases/download/v1.7/update.zip
 # SteamPlus+ Changelog
 
