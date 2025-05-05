@@ -1,13 +1,6 @@
 latest_version=1.6
-download_url=https://github.com/juliannizah26/SteamPlus-Release/releases/download/v1.7/update.zip
+download_url=https://github.com/juliannizah26/SteamPlus-Release/releases/download/v1.6/update.zip
 # SteamPlus+ Changelog
-
-## Version 1.7 - (April 22, 2025)
-- Completely removed Universal Launcher related code, UI elements, and configuration.
-- Improved error messages for Steam login failures
-- Cleaned up settings UI by removing Universal Launcher entries.
-- Ensured no commented-out Universal Launcher code remains in the codebase.
-- Verified code robustness and error handling for Steam login, game launching, and update system.
 
 ## Version 1.6 - (April 21, 2025)
 - Merged shared accounts dictionary for OnlineFix and Original modes into a single shared accounts configuration
